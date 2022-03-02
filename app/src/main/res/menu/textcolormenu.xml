@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/changeBack"
+        android:title="تغيير لون الخلفية" />
+    <item
+        android:id="@+id/changetextcolor"
+        android:title="تغيير لون النص" />
+    <item
+        android:id="@+id/changTitle"
+        android:title="تغيير لون العنوان" />
+    <item
+        android:id="@+id/fonts"
+        android:title="تغيير نوع الخط" />
+</menu>

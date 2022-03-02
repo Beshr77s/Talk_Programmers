@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "348584296903",
+    "project_id": "mainbook-252fe",
+    "storage_bucket": "mainbook-252fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348584296903:android:bf40ebd02ed2fed4a119e2",
+        "android_client_info": {
+          "package_name": "com.qashar.mainbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348584296903-000ar7akemcmvavrf101fsjbrmq9q97u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVuILzr1fWELtJ2eKbVLCaX9zhdU-npB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348584296903-000ar7akemcmvavrf101fsjbrmq9q97u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

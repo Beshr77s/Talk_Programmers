@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+      <Button
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+         android:text="رجوع"
+          android:textSize="20dp"
+         android:id="@+id/btn_back_frament"/>
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_marginTop="10dp"
+          android:layout_marginBottom="20dp"
+          android:text="@string/about_author_book"
+          android:textColor="#000000"
+          android:textSize="10pt" />
+
+      <TextView
+          android:id="@+id/textView"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_gravity="center"
+          android:text="-------مبرمج التطبيق---------"
+          android:textColor="#4CAF50"
+          android:textSize="24sp"
+          android:textStyle="bold" />
+
+      <TextView
+
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_gravity="center"
+          android:layout_margin="5dp"
+          android:text="بشر قشار"
+          android:textColor="#009688"
+          android:textSize="24sp"
+          android:textStyle="bold" />
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_gravity="center"
+          android:layout_margin="5dp"
+          android:text="---------------------------"
+          android:textColor="#4CAF50"
+          android:textSize="24sp"
+          android:textStyle="bold" />
+
+      <TextView
+          android:id="@+id/textView4"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_gravity="center"
+          android:layout_weight="1"
+          android:text="-------------"
+          android:textColor="#4CAF50"
+          android:textSize="24sp"
+          android:textStyle="bold" />
+
+      <Button
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="ادعمنا بمشاهده اعلان"
+          android:textSize="20dp"
+          android:layout_marginBottom="100dp"
+          android:id="@+id/view_ADS"/>
+</LinearLayout>

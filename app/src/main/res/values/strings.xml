@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name"> كلام مبرمجين </string>
+
+    <string name="developer_name">BESHR QASHAR</string>
+    <string name="developer_email">b.s.m.q.2020@gmile.com</string>
+
+    <string name="about_author_book">مرحبا انا اسمي بشر قشار ,مطور تطبيقات اندرويد  هذا هو أول تطبيق فعلي لي , بدات مسيرتي التعليمية في تعلم البرمجة من ذو العام  2019 اطمح بان اتلقى تعليمي الجامعي في تركيا وأرغب ان اكون من اكبر المبرمجين حول العالم .......</string>
+
+
+<!--    Here you should add your titles with texts -->
+    <string name="title1">title1</string>
+    <string name="text1">text1</string>
+
+    <string name="title2">title1</string>
+    <string name="text2">text1</string>
+
+    <string name="title3">title1</string>
+    <string name="text3">text1</string>
+
+<!--    <string name="title3">titleN</string>
+   <string name="text3">textN</string>-->
+
+<!--    ........................... -->
+</resources>
